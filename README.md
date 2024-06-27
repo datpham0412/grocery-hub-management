@@ -86,9 +86,6 @@ The **SuperMarketApp** is a web-based application designed to manage supermarket
 7. **Launch the Application**:
     - Open your web browser and navigate to `http://localhost:8080/SuperMarketApp/login.php`.
 
-## 📷 Screenshots
-![Screenshot](https://github.com/datpham0412/SuperMarketApp/assets/your-screenshot-link)
-
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/datpham0412/SuperMarketApp/blob/main/LICENSE) file for details.
 
