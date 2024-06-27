@@ -87,7 +87,7 @@ The **SuperMarketApp** is a web-based application designed to manage supermarket
     - Open your web browser and navigate to `http://localhost:8080/SuperMarketApp/login.php`.
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/datpham0412/SuperMarketApp/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/datpham0412/Supermarket-Administration-App/blob/main/LICENSE) file for details.
 
 ## 📞 Contact
 For any inquiries, please contact [tiendat041202@gmail.com](mailto:tiendat041202@gmail.com).
