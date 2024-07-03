@@ -1,9 +1,6 @@
 # 🛒 SuperMarketApp
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/datpham0412/SuperMarketApp/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/datpham0412/SuperMarketApp)](https://github.com/datpham0412/SuperMarketApp/issues)
-[![GitHub stars](https://img.shields.io/github/stars/datpham0412/SuperMarketApp)](https://github.com/datpham0412/SuperMarketApp/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/datpham0412/SuperMarketApp)](https://github.com/datpham0412/SuperMarketApp/network/members)
 
 ## 📋 Project Description
 The **SuperMarketApp** is a web-based application designed to manage supermarket operations such as user authentication, inventory management, order processing, and sales tracking. It is built using PHP and MySQL, providing a robust and scalable solution for small to medium-sized supermarkets.
