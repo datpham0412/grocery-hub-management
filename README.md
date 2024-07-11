@@ -1,4 +1,4 @@
-# 🛒 SuperMarketApp
+# 🛒 GroceryHubManagementSystem
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/datpham0412/SuperMarketApp/blob/main/LICENSE)
 
